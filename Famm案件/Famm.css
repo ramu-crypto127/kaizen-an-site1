@@ -1,0 +1,1850 @@
+@charset "UTF-8";
+
+.kiwi-maru-regular {
+    font-family: "Kiwi Maru", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.kiwi-maru-medium {
+    font-family: "Kiwi Maru", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+body {
+    height: 100%;
+    background-color: #fff;
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    height: 90px;
+    margin: 0 auto;
+}
+
+
+
+.top-icon img {
+    position: absolute;
+    top: 30px;
+    left: 250px;
+}
+
+.header-group ul {
+    font-family: "Kosugi", sans-serif;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 30px;
+    padding: 0;
+    margin: 50px 260px 50px auto;
+}
+
+
+
+.header-group li a {
+    width: 1000px;
+    text-decoration: none;
+    color: #000;
+    opacity: 0.5;
+    font-size: 14px;
+}
+
+.main-visual {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.main-visual img {
+    width: 1000px;
+    display: block;
+    position: static;
+    margin: 0;
+}
+
+
+.title-1 p {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 100px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.title-1 span {
+    color: #f00;
+}
+
+.illust {
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+.illust-1 img {
+    position: absolute;
+    left: 220px;
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.illust-2 img {
+    position: absolute;
+    top: 260px;
+    right: 230px;
+    width: 270px;
+    height: 190px;
+}
+
+.ganbaru ruby {
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 230px;
+    width: 100%;
+}
+
+.ganbaru ruby rt {
+    font-size: 45px;
+    margin-top: 50px;
+}
+
+
+
+.setumeikai p {
+    font-size: 30px;
+    text-align: center;
+    margin: 100px auto;
+    line-height: 1.5;
+
+}
+
+.setumeikai span {
+    font-weight: bold;
+}
+
+
+
+.illust-3 img {
+    position: absolute;
+    left: 220px;
+    top: 200px;
+    width: 220px;
+}
+
+.illust-4 img {
+    position: absolute;
+    top: -10px;
+    right: 220px;
+    width: 270px;
+    height: 190px;
+}
+
+.setu-text p {
+    width: 1000px;
+    margin: 0 auto 150px auto;
+    font-size: 14px;
+    opacity: 0.7;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.title-2 p {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 60px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.muryou- {
+    width: 1000px;
+    height: 600px;
+}
+
+.muryou-illust img {
+    width: 1000px;
+    height: 600px;
+    margin: 0 250px;
+}
+
+.muryou-text p {
+    width: 1000px;
+    margin: 20px auto;
+    font-size: 14px;
+    opacity: 0.7;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.muryou-text span a {
+    color: #f93;
+    text-decoration: none;
+}
+
+.youtube {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.title-3 p {
+    width: 1000px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 100px auto 20px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.TV-text p {
+    font-size: 14px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    opacity: 0.7;
+}
+
+
+
+.video iframe,
+.video-2 iframe {
+    display: block;
+    position: static;
+    margin: 50px auto;
+}
+
+
+
+.joseimuke {
+    width: 1000px;
+    height: 600px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+.title-4 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 100px auto 20px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.san-illust {
+    width: 1000px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.san-illust img {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    position: static;
+}
+
+.title-5 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 100px auto 20px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.ple-text p {
+    font-size: 16px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 2.5;
+    letter-spacing: 3px;
+}
+
+.ple-text span {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.kuwasiku p {
+    width: 1000px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 2.5;
+}
+
+.kuwasiku a {
+    font-size: 16px;
+    color: #f93;
+    text-decoration: none;
+
+}
+
+.ple-text-2 p {
+    font-size: 16px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 2.5;
+    letter-spacing: 3px;
+}
+
+.ple-text-2 span {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.kuwasiku-2 p {
+    width: 1000px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 2.5;
+}
+
+.kuwasiku-2 a {
+    font-size: 16px;
+    color: #f93;
+    text-decoration: none;
+}
+
+.gyu-text p {
+    font-size: 16px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 2.5;
+    letter-spacing: 3px;
+}
+
+.gyu-text span {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.kuwasiku-3 p {
+    width: 1000px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 2.5;
+}
+
+.kuwasiku-3 a {
+    font-size: 16px;
+    color: #f93;
+    text-decoration: none;
+}
+
+.motto summary {
+    width: 1000px;
+    font-size: 18px;
+    margin: 0 auto 40px auto;
+    text-align: left;
+    cursor: pointer;
+}
+
+.motto p {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 2.2;
+
+    letter-spacing: 2px;
+}
+
+
+.motto span {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.kuwasiku-4 p {
+    margin-bottom: 20px;
+}
+
+.kuwasiku-4 a {
+    font-size: 16px;
+    color: #f93;
+    text-decoration: none;
+
+}
+
+.title-6 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 100px auto 20px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+
+
+.kosodatemama {
+    width: 1000px;
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 0;
+    position: relative;
+}
+
+.kangaeru img {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    display: block;
+    position: static;
+}
+
+.hukidasi-1 img {
+    width: 320px;
+    height: 100px;
+    position: absolute;
+    top: 20px;
+    right: 110px;
+}
+
+.hukidasi-2 img {
+    width: 320px;
+    height: 100px;
+    position: absolute;
+    top: 20px;
+    left: 110px;
+}
+
+.hukidasi-3 img {
+    width: 320px;
+    height: 100px;
+    position: absolute;
+    bottom: 10px;
+    left: 110px;
+}
+
+.hukidasi-4 img {
+    width: 390px;
+    height: 90px;
+    position: absolute;
+    bottom: 15px;
+    right: 25px;
+}
+
+.kosodate-text p {
+    font-size: 16px;
+    width: 1000px;
+    margin: 50px auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+.kosodate-text span {
+    font-weight: bold;
+}
+
+.title-7 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 100px auto 20px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.koutanka-text p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 30px auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+.g-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.grahu img {
+    width: 1000px;
+    height: 1200px;
+    display: block;
+    position: static;
+    margin: 70px auto;
+}
+
+.title-8 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 100px auto 20px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.ikuji-text p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 30px auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+.en-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.en-g img {
+    width: 1000px;
+    height: 820px;
+    display: block;
+    position: static;
+    margin: 50px auto;
+}
+
+.title-9 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 100px auto 20px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.sa-bisu p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+.sa-bisu span {
+
+    display: inline-block;
+    margin: 20px auto;
+}
+
+.sa-bisu-2 p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 50px auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+.sa-bisu-2 span {
+    font-weight: bold;
+    display: inline-block;
+    margin: 20px auto;
+
+}
+
+.grid-list {
+    display: grid;
+    justify-content: center;
+    align-items: start;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    max-width: 1000px;
+    row-gap: 70px;
+    /*縦間隔の隙間（上の列と下の列の間隔）*/
+}
+
+.grid-list li {
+    text-align: center;
+}
+
+.grid-list li img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+.grid-list li .caption {
+    width: 100%;
+    /*1000pxなどの固定幅だと崩れやすいので100%に*/
+    max-width: 200px;
+    /*画像幅より小さくすることで文字が真ん中に寄る*/
+    font-weight: bold;
+    margin-top: 5px;
+    font-size: 16px;
+    letter-spacing: 2px;
+    line-height: 1.3;
+    text-align: left;
+    /*左揃えで*/
+    display: inline-block;
+    /*画像のブロック自体を真下中央に*/
+    margin: 0 auto;
+    /*中央寄せ*/
+}
+
+.grid-list li .caption span {
+    display: block;
+    /*段落間に余白を確保*/
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: 2px;
+    opacity: 0.6;
+}
+
+.title-10 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 150px auto 20px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.corona p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 30px auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+.live-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.live img {
+    width: 1000px;
+    height: 820px;
+    display: block;
+    position: static;
+    margin: 30px auto;
+}
+
+.title-11 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.seisaku p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 30px auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+.seisaku-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.seisaku-bana- img {
+    width: 1000px;
+    height: 620px;
+    display: block;
+    position: static;
+    margin: 50px auto;
+}
+
+.title-12 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.sitter-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.sitter img {
+    width: 1000px;
+    height: 470px;
+    display: block;
+    position: static;
+    margin: 50px auto;
+}
+
+.sitter-text p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 20px auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+.tokutyou p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    background: #c2edff;
+    /*背景色*/
+    padding: 0.5em;
+    /*文字まわり（上下左右）の余白*/
+}
+
+.tokutyou-text p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 40px auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+.tokutyou-text span {
+    font-weight: bold;
+    color: #f00;
+}
+
+.tokutyou-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.sitter-sabis img {
+    width: 1000px;
+    height: 470px;
+    display: block;
+    position: static;
+    margin: 50px auto;
+}
+
+.tokutyou-2 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    background: #c2edff;
+    /*背景色*/
+    padding: 0.5em;
+    /*文字まわり（上下左右）の余白*/
+}
+
+.tokutyou-text-2 p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 40px auto;
+    text-align: left;
+    line-height: 1.8;
+    letter-spacing: 2px;
+}
+
+.tokutyou-text-2 span {
+    font-weight: bold;
+}
+
+.kurasu-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.kurasu img {
+    width: 1000px;
+    height: 470px;
+    display: block;
+    position: static;
+    margin: 50px auto;
+}
+
+.tokutyou-3 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    background: #c2edff;
+    /*背景色*/
+    padding: 0.5em;
+    /*文字まわり（上下左右）の余白*/
+}
+
+.tokutyou-text-3 p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 40px auto;
+    text-align: left;
+    line-height: 1.8;
+    letter-spacing: 2px;
+}
+
+.tokutyou-text-3 span {
+    font-weight: bold;
+}
+
+.tanki-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.tanki img {
+    width: 1000px;
+    height: 470px;
+    display: block;
+    position: static;
+    margin: 50px auto;
+}
+
+.tokutyou-4 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    background: #c2edff;
+    /*背景色*/
+    padding: 0.5em;
+    /*文字まわり（上下左右）の余白*/
+}
+
+.tokutyou-text-4 p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 40px auto;
+    text-align: left;
+    line-height: 1.8;
+    letter-spacing: 2px;
+}
+
+.tokutyou-text-4 span {
+    font-weight: bold;
+}
+
+.rokuga-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.rokuga img {
+    width: 1000px;
+    height: 470px;
+    display: block;
+    position: static;
+    margin: 50px auto;
+}
+
+.tokutyou-5 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    background: #c2edff;
+    /*背景色*/
+    padding: 0.5em;
+    /*文字まわり（上下左右）の余白*/
+}
+
+.tokutyou-text-5 p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 40px auto;
+    text-align: left;
+    line-height: 1.8;
+    letter-spacing: 2px;
+}
+
+.tokutyou-text-5 span,
+.tokutyou-text-51 span {
+    font-weight: bold;
+}
+
+.tokutyou-text-51 p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 40px auto;
+    text-align: left;
+    line-height: 1.8;
+    letter-spacing: 2px;
+}
+
+.hoshou-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.hoshou img {
+    width: 1000px;
+    height: 470px;
+    display: block;
+    position: static;
+    margin: 50px auto;
+}
+
+.tokutyou-6 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    background: #c2edff;
+    /*背景色*/
+    padding: 0.5em;
+    /*文字まわり（上下左右）の余白*/
+}
+
+.tokutyou-text-6 p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 40px auto;
+    text-align: left;
+    line-height: 1.8;
+    letter-spacing: 2px;
+}
+
+.tokutyou-text-6 span {
+    font-weight: bold;
+}
+
+.grid-list-2 {
+    display: grid;
+    justify-content: center;
+    align-items: stretch;
+    /*高さをそろえる*/
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto;
+    gap: 30px 40px;
+    /*縦70 横40*/
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    max-width: 1000px;
+
+}
+
+.grid-list-2 li {
+    display: flex;
+    /*中身を縦方向に配置*/
+    flex-direction: column;
+    /*テキスト→画像の順*/
+    justify-content: flex-start;
+    text-align: left;
+}
+
+.grid-list-2 li img {
+    width: 100%;
+    max-width: 450px;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+.grid-list-2 li p {
+    max-width: 450px;
+    /*画像幅より小さくすることで文字が真ん中に寄る*/
+    grid-column: auto;
+    font-weight: bold;
+    font-size: 17px;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-align: left;
+    /*左揃えで*/
+    margin: 40px 0 20px 0;
+}
+
+.skill-text p {
+    font-size: 14px;
+    width: 1000px;
+    margin: 50px auto 30px auto;
+    text-align: left;
+    opacity: 0.7;
+}
+
+.title-13 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.genshoku p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 30px auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+.genshoku-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.genshoku-utuwa img {
+    width: 330px;
+    height: 160px;
+
+}
+
+
+.title-14 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.jinseimama-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.jinseimama-utuwa img {
+    width: 480px;
+    height: 1000px;
+    margin: 40px auto;
+}
+
+.jinseimama-text p {
+    font-size: 18px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.jinseimama-text a {
+    color: #f93;
+    text-decoration: none;
+}
+
+.title-15 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.kouzanaiyou p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 30px auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+.manabi-1 p {
+    width: 1000px;
+    font-size: 16px;
+    opacity: 0.5;
+    border-bottom: 10px solid #c0c0c0;
+    margin: 0 auto;
+    padding: 50px 0;
+    text-align: left;
+}
+
+.manabi-text p {
+    font-size: 14px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 30px auto;
+    text-align: left;
+    line-height: 1.5;
+    opacity: 0.7;
+}
+
+.title-16 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.anke-to-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.anke-to-utuwa img {
+    width: 485px;
+    height: 500px;
+    margin: 40px auto;
+}
+
+.anke-to-text p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 30px auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+.title-17 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.grid-list-3 {
+    display: grid;
+    justify-content: center;
+    align-items: start;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    list-style: none;
+    /*liに対しての指定*/
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1000px;
+}
+
+.grid-list-3 li img {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+.grid-list-3 li {
+    text-align: left;
+    margin: 0 auto;
+}
+
+.grid-list-3 li .cap {
+    width: 100%;
+    max-width: 500px;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 5px;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-align: left;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.grid-list-3 li .cap span {
+    width: 300px;
+    display: block;
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: 2px;
+    opacity: 0.6;
+}
+
+.title-18 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.nittei p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 30px auto;
+    text-align: left;
+    line-height: 2.0;
+    letter-spacing: 2px;
+}
+
+.title-19 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.itou {
+    width: 1000px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 0 250px;
+}
+
+.itou img,
+.miyazaki img,
+.kawata img,
+.kawahara img,
+.matuo img {
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.koushi-name {
+    max-width: 370px;
+    text-align: left;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-bottom: 5px solid #c0c0c0;
+}
+
+.type1 {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px auto;
+    display: inline-block;
+
+}
+
+.type2 {
+    font-size: 16px;
+    font-weight: normal;
+    display: inline-block;
+    line-height: 1.8;
+}
+
+
+
+.keireki {
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+.type3 {
+    width: 1000px;
+    font-size: 16px;
+    font-weight: normal;
+    display: inline-block;
+    line-height: 1.8;
+    margin-bottom: 80px;
+}
+
+.miyazaki {
+    width: 1000px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 0 250px;
+}
+
+
+
+.miyazaki-text .type2 {
+    font-size: 16px;
+    font-weight: normal;
+    display: block;
+    line-height: 1.8;
+}
+
+.kawata {
+    width: 1000px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 0 250px;
+}
+
+
+
+.kawata-text .type2 {
+    font-size: 16px;
+    font-weight: normal;
+    display: block;
+    line-height: 1.8;
+}
+
+.kawahara {
+    width: 1000px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 0 250px;
+}
+
+
+
+.kawahara-text .type2 {
+    font-size: 16px;
+    font-weight: normal;
+    display: block;
+    line-height: 1.8;
+}
+
+.matuo {
+    width: 1000px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 0 250px;
+}
+
+.matuo-text .type2 {
+    font-size: 16px;
+    font-weight: normal;
+    display: block;
+    line-height: 1.8;
+}
+
+.matuo-text .type3 {
+    width: 1000px;
+    font-size: 16px;
+    font-weight: normal;
+    display: inline-block;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+
+.type4 {
+    width: 1000px;
+    font-size: 16px;
+    font-weight: normal;
+    display: inline-block;
+    line-height: 1.8;
+    margin-bottom: 80px;
+}
+
+.title-20 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.jukouryou-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.jukouryou-utuwa img {
+    width: 1000px;
+    height: 470px;
+    display: block;
+    position: static;
+    margin: 50px auto;
+}
+
+.title-21 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.tatiiti p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 30px auto;
+    text-align: left;
+    line-height: 2.0;
+    letter-spacing: 2px;
+}
+
+.tatiiti p span {
+    font-weight: bold;
+}
+
+.hikaku-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.hikaku-utuwa img {
+    width: 800px;
+    height: 1000px;
+    display: block;
+    position: static;
+    margin: 30px auto;
+}
+
+.hikaku-text p {
+    font-size: 14px;
+    font-weight: 400;
+    width: 800px;
+    margin: 20px auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    opacity: 0.7;
+}
+
+.title-22 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.setumeikai-text p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 20px auto;
+    text-align: left;
+    line-height: 2.8;
+    letter-spacing: 2px;
+}
+
+.setumeikai-text-2 p {
+    font-size: 15px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 20px auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 3px;
+}
+
+.kaunsera-utuwa {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.kaunsera-utuwa img {
+    width: 800px;
+    height: auto;
+    display: block;
+    position: static;
+    margin: 30px auto;
+}
+
+.grid-list-4 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    justify-content: center;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+
+.day {
+    width: 250px;
+    padding: 10px;
+}
+
+.date {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    margin: 40px auto 20px auto;
+}
+
+.time {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    line-height: 2.0;
+    letter-spacing: 2px;
+
+}
+
+.time li.zan {
+    color: #000;
+}
+
+.time li.full {
+    text-decoration: line-through;
+    text-decoration-color: #000;
+    color: #f93;
+
+}
+
+.nittei-text p {
+    font-size: 14px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 30px auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 3px;
+}
+
+.nittei-text span {
+    font-weight: bold;
+}
+
+.title-23 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.situmon p {
+    font-size: 17px;
+    font-weight: bold;
+    width: 1000px;
+    margin: 30px auto 20px auto;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 3px;
+}
+
+.situmon-text p {
+    font-size: 15px;
+    font-weight: 400;
+    width: 1000px;
+    margin: 20px auto 50px auto;
+    text-align: left;
+    line-height: 2.0;
+    letter-spacing: 2px;
+    opacity: 0.7;
+}
+
+.title-24 p {
+    width: 1000px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 10px auto;
+    /*線の種類（二重線）太さ 色*/
+    border-bottom: double 5px #FFC778;
+}
+
+.grid-list-5 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: start;
+    gap: 60px;
+    padding: 0;
+    margin: 0 auto;
+    list-style: none;
+    max-width: 1000px;
+}
+
+.grid-list-5 li img {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: 20px auto;
+    object-fit: cover;
+}
+
+.grid-list-5 li {
+    text-align: left;
+    margin: 0 auto;
+}
+
+.grid-list-5 li .grid-text-5 {
+    width: 100%;
+    max-width: 300px;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    line-height: 1.3;
+    text-align: left;
+    display: inline-block;
+    margin: 30px auto;
+}
+
+.grid-list-5 li .grid-text-5 span {
+    display: block;
+    margin: 20px auto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+    letter-spacing: 2px;
+    opacity: 0.6;
+}
+
+.grid-list-5 li .grid-text-5 a {
+    text-decoration: none;
+    color: #f93;
+    font-weight: 400;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.s-border {
+    width: 1000px;
+    height: 5px;
+    margin: 0 auto;
+    border-bottom: 2px solid #c0c0c0;
+}
+
+.saigo {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 10px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.saigo-utuwa img {
+    width: 550px;
+    height: 350px;
+    display: block;
+    margin: 50px auto;
+    flex: 1;
+}
+
+.saigo-migi {
+    margin-top: 30px;
+}
+
+
+
+.title-25 p {
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: left;
+    margin: 80px auto 20px auto;
+
+}
+
+.saigo-text span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.8;
+    letter-spacing: 2px;
+}
+
+.button {
+    width: 400px;
+    height: 50px;
+    border: 2px solid #f93;
+    border-radius: 25px;
+    background-color: #f93;
+    margin: 50px auto;
+    padding: 15px 30px;
+    text-align: center;
+    transition: all .3s;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.button a {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.button:hover {
+    background-color: #fff;
+}
+
+.button:hover a {
+    color: #f93;
+}
+
+.privacy {
+    height: 500px;
+}
+
+.privacy-group ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 0;
+    margin: 70px auto;
+    list-style: none;
+}
+
+.privacy-group li a {
+    width: 1000px;
+    text-decoration: none;
+    color: #f93;
+    font-size: 16px;
+}
